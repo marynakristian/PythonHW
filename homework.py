@@ -1,0 +1,2 @@
+def alupigus():
+    print("Remote")
