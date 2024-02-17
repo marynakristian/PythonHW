@@ -129,6 +129,8 @@
 # print(fib_recursive(10))
 
 # /!14
-with open("main.txt", "r") as file:
-    content = file.read()
-file.close()
+# with open("main.txt", "r") as file:
+#     content = file.read()
+# file.close()
+
+
